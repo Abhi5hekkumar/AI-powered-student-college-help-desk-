@@ -40,7 +40,7 @@ Instead of walking between the library, accounts office and admin block to find 
 
 ```bash
 git clone <https://github.com/Abhi5hekkumar/AI-powered-student-college-help-desk-.git>
-cd <project-folder>
+cd <cd AI-powered-student-college-help-desk--main>
 # install dependencies
 # add your keys to a .env file (see .env.example)
 # run the project
