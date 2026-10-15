@@ -30,11 +30,11 @@ Instead of walking between the library, accounts office and admin block to find 
 
 | Part | Used |
 |------|------|
-| Frontend | _add yours_ |
-| Backend | _add yours_ |
-| Database | _add yours_ |
-| AI model / API | _add yours_ |
-| Auth | _add yours_ |
+| Frontend | HTML, CSS, JavaScript |
+| Backend |Python (Flask)|
+| Database | MySQL |
+| AI model / API | Google Gemini API |
+| Auth | Session-based login |
 
 ## Getting started
 
