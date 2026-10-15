@@ -39,7 +39,7 @@ Instead of walking between the library, accounts office and admin block to find 
 ## Getting started
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Abhi5hekkumar/AI-powered-student-college-help-desk-.git>
 cd <project-folder>
 # install dependencies
 # add your keys to a .env file (see .env.example)
