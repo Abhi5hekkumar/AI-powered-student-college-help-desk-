@@ -76,8 +76,8 @@ Fork the repo, create a branch, make your changes and open a pull request.
 
 ## License
 
-Not declared yet. Add a `LICENSE` file (e.g. MIT) before sharing publicly.
+Not declared yet. Add a `LICENSE` file ( MIT) before sharing publicly.
 
 ## Author
 
-**Abhishek Kumar**e
+**Abhishek Kumar
