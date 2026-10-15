@@ -80,4 +80,4 @@ Not declared yet. Add a `LICENSE` file ( MIT) before sharing publicly.
 
 ## Author
 
-**Abhishek Kumar
+Abhishek Kumar
