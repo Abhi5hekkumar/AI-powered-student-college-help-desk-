@@ -50,10 +50,6 @@ Replace the steps above with the actual commands for your project.
 
 ## Screenshots
 
-![Home](assets/home.png)
-![Student Dashboard](assets/dashboard.png)
-
-Use only screenshots that exist in `assets/`, and hide any real student data.
 
 ## Notes on security
 
